@@ -10,3 +10,4 @@
   * Day 3: Snowman = By Miguel Carraça, PT - https://thenounproject.com/search/?q=christmas&i=771074
   * Day 4: Candy stick = By yanti anis, ID - https://thenounproject.com/search/?q=christmas&i=2014873
   * Day 5: Sock = Made by Made, AU - https://thenounproject.com/search/?q=christmas&i=1417389
+  * Day 6: Barn by Nociconist, ID - https://thenounproject.com/icon/1549496/
