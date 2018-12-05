@@ -25,8 +25,12 @@ $( document ).ready(function() {
       "Politik Bei Uns",
       "Politik bei uns macht die Politik vor Ort transparenter. Dazu werden Informationen und öffentliche Dokumente werden aus den Ratsinformationssystemen der Städte und Kommunen ausgelesen und in einer übersichtlichen und strukturierten Form präsentiert.",
       "https://politik-bei-uns.de/"
-    ]
-      , "amet", "consect", "adipisci", "elit,", "sed.", "Eiusmod", "tempor", "a", "enim", "minim", "season", "nulla", "dolore", "sint", "id", "est", "laboris", "ut.", "aute", "laborum", "toe"];
+    ], 
+    [ "farmshops-200",
+    "Hofladen-Karte farmshops.eu",
+    "farmshops.eu hilft dabei Wochenmärkte, Hofläden, Imker, bäuerlichen Milch, -Eier- oder Essensautomaten und vielen andere Direktvermarktern in Deiner Region zu finden.",
+    "https://farmshops.eu/"
+    ], "consect", "adipisci", "elit,", "sed.", "Eiusmod", "tempor", "a", "enim", "minim", "season", "nulla", "dolore", "sint", "id", "est", "laboris", "ut.", "aute", "laborum", "toe"];
  console.log("test");
   var message = "";
   var date = new Date();
