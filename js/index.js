@@ -118,7 +118,7 @@ $( document ).ready(function() {
     ],
     [ "X-200",
     "FragDenStaat",
-    "ede Person hat das Recht auf Informationen. FragDenStaat hilft Ihnen, Ihr Recht wahrzunehmen. Fragen Sie über diese gemeinnützige Plattform Behörden in Deutschland nach Informationen und Dokumenten! ",
+    "Jede Person hat das Recht auf Informationen. FragDenStaat hilft Ihnen, Ihr Recht wahrzunehmen. Fragen Sie über diese gemeinnützige Plattform Behörden in Deutschland nach Informationen und Dokumenten! ",
     "https://fragdenstaat.de/"
     ], 
      "25"];
